@@ -26,7 +26,7 @@ ${htjava} *Umur:* 15 Tahun
 ${htjava} *Kelas:* pesantren
 ${htjava} *Status:* Couple
 
-${htjava} *Ulang Tahun:* 5 Oct 2008
+${htjava} *Ulang Tahun:* 11-07-2007
 ${htjava} *Alamat:* Indonesia, Kal-Sel, Msrtapura
 ${htjava} *Skills:* 
 > JavaScript [89.7%]
